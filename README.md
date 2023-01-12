@@ -6,3 +6,6 @@ The year 2020 was a catastrophic year for humanity. Pneumonia of unknown aetiolo
 The scientists believed that the absence of AI assisted automated tracking and predicting system is the cause of the wide spread of COVID-19 pandemic. Hence, the scientist proposed the usage of deep learning model to predict the daily COVID cases to determine if travel bans should be imposed or rescinded 
 
 This is a task to create a deep learning model using LSTM neural network to predict new cases (cases_new) in Malaysia using the past 30 days of number of cases.
+
+## Data source from:
+GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19  epidemic in Malaysia. Powered by CPRC, CPRC Hospital System,  MKAK, and MySejahtera.
