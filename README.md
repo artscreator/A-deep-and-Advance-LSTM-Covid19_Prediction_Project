@@ -9,3 +9,4 @@ This is a task to create a deep learning model using LSTM neural network to pred
 
 ## Data source from:
 GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19  epidemic in Malaysia. Powered by CPRC, CPRC Hospital System,  MKAK, and MySejahtera.
+https://github.com/MoH-Malaysia/covid19-public
